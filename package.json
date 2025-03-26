@@ -1,7 +1,7 @@
 {
   "name": "maintenance-app",
   "version": "1.12.3",
-  "description": "Corelytics Admin Toolkit app",
+  "description": "SIMS Admin Toolkit app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Prescott-Data/maintenance-app-legacy.git"

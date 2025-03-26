@@ -9,12 +9,12 @@
   "appType": "APP",
   "name": "Admin Toolkit",
   "version": "1.12.3",
-  "description": "Corelytics Admin Toolkit app",
+  "description": "SIMS Admin Toolkit app",
   "icons": {
     "48": "icon.png"
   },
   "developer": {
     "name": "PDL"
   },
-  "manifest_generated_at": "Mon Mar 24 2025 09:19:49 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Wed Mar 26 2025 10:08:24 GMT+0000 (Coordinated Universal Time)"
 }
