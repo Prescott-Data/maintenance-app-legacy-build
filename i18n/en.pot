@@ -841,7 +841,7 @@ msgid "Option set for comments"
 msgstr ""
 
 #: organisation_unit_counts
-msgid "Thematic area counts"
+msgid "Program pillar counts"
 msgstr ""
 
 #: category_option
@@ -1314,11 +1314,11 @@ msgid "Could not save the translation."
 msgstr ""
 
 #: organisation_unit_assignment_saved
-msgid "Thematic area assignment saved"
+msgid "Program pillar assignment saved"
 msgstr ""
 
 #: organisation_unit_assignment_save_error
-msgid "Failed to save thematic area assignment"
+msgid "Failed to save program pillar assignment"
 msgstr ""
 
 #: deselect
@@ -1356,7 +1356,7 @@ msgstr ""
 
 #: assignToOrgUnits
 msgctxt "assignToOrgUnits"
-msgid "Assign to thematic areas"
+msgid "Assign to program pillars"
 msgstr ""
 
 #: compulsoryDataElements
@@ -1394,11 +1394,11 @@ msgid "Could not save compulsory data elements"
 msgstr ""
 
 #: create_new_root
-msgid "Are you sure you want to create a new root thematic area?"
+msgid "Are you sure you want to create a new root program pillar?"
 msgstr ""
 
 #: create_new_organisation_unit
-msgid "Create new thematic area"
+msgid "Create new program pillar"
 msgstr ""
 
 #: registers_data
@@ -1406,7 +1406,7 @@ msgid "Registers data"
 msgstr ""
 
 #: crease_new_organisation_unit_group
-msgid "Create new thematic area group"
+msgid "Create new program pillar group"
 msgstr ""
 
 #: hierarchy_operations
@@ -1414,7 +1414,7 @@ msgid "Hierarchy operations"
 msgstr ""
 
 #: select_an_organisation_unit_to_move
-msgid "Select an thematic area to move"
+msgid "Select an program pillar to move"
 msgstr ""
 
 #: not_selected
@@ -1426,7 +1426,7 @@ msgid "Confirm"
 msgstr ""
 
 #: select_the_new_parent_organisation_unit_for_the_one_to_move
-msgid "Select the new parent thematic area for the one to move"
+msgid "Select the new parent program pillar for the one to move"
 msgstr ""
 
 #: reset
@@ -1434,11 +1434,11 @@ msgid "Reset"
 msgstr ""
 
 #: parent_organisation_unit
-msgid "Parent thematic area"
+msgid "Parent program pillar"
 msgstr ""
 
 #: no_matching_organisation_units
-msgid "No matching thematic areas"
+msgid "No matching program pillars"
 msgstr ""
 
 #: organisation_unit
@@ -1458,15 +1458,15 @@ msgid "Organisation Unit Level"
 msgstr ""
 
 #: organisation_unit_management
-msgid "Thematic area management"
+msgid "Program pillar management"
 msgstr ""
 
 #: this_organisation_unit_has_no_children
-msgid "This thematic area has no children"
+msgid "This program pillar has no children"
 msgstr ""
 
 #: organisation_unit_group_management
-msgid "Thematic area group management"
+msgid "Program pillar group management"
 msgstr ""
 
 #: number_of_group_members
@@ -1474,37 +1474,37 @@ msgid "Number of group members"
 msgstr ""
 
 #: edit_organisation_unit
-msgid "Edit thematic area"
+msgid "Edit program pillar"
 msgstr ""
 
 #: edit_organisation_unit_group
-msgid "Edit thematic area group"
+msgid "Edit program pillar group"
 msgstr ""
 
 #: the_selected_organisation_unit_is_already_a_root
 msgid ""
-"The selected thematic area is already a root. Please select a new parent "
-"thematic area"
+"The selected program pillar is already a root. Please select a new parent "
+"program pillar"
 msgstr ""
 
 #: the_selected_organisation_unit_will_be_moved_to_root
-msgid "The selected thematic area will be moved to root"
+msgid "The selected program pillar will be moved to root"
 msgstr ""
 
 #: an_organisation_unit_cannot_be_moved_to_itself
 msgid ""
-"A thematic area cannot be moved to itself. Please select a new parent "
-"thematic area"
+"A program pillar cannot be moved to itself. Please select a new parent "
+"program pillar"
 msgstr ""
 
 #: an_organisation_unit_cannot_be_moved_to_be_its_own_child
 msgid ""
-"A thematic area cannot be moved to be its own child. Please select a "
-"new parent thematic area"
+"A program pillar cannot be moved to be its own child. Please select a "
+"new parent program pillar"
 msgstr ""
 
 #: the_new_parent_organisation_unit_is_approved
-msgid "The new parent thematic area is approved"
+msgid "The new parent program pillar is approved"
 msgstr ""
 
 #: name_in_use
@@ -1517,12 +1517,12 @@ msgstr ""
 
 #: this_organisation_unit_cannot_moved
 msgid ""
-"This thematic area cannot be moved. Please select a new organisation "
+"This program pillar cannot be moved. Please select a new organisation "
 "unit to move"
 msgstr ""
 
 #: the_organisation_unit_to_move_is_approved
-msgid "The thematic area to move is approved"
+msgid "The program pillar to move is approved"
 msgstr ""
 
 #: not_selected_moved_to_root_position
@@ -1531,45 +1531,45 @@ msgstr ""
 
 #: verification_of_the_new_parent_organisation_unit_failed
 msgid ""
-"Verification of the new parent thematic area failed with the following "
+"Verification of the new parent program pillar failed with the following "
 "message"
 msgstr ""
 
 #: confirm_to_delete_organisation_unit
 msgctxt "confirm_to_delete_organisation_unit"
-msgid "Are you sure you want to delete this thematic area?"
+msgid "Are you sure you want to delete this program pillar?"
 msgstr ""
 
 #: adding_the_organisation_unit_failed
-msgid "Adding the thematic area failed with the following message"
+msgid "Adding the program pillar failed with the following message"
 msgstr ""
 
 #: saving_the_organisation_unit_failed
-msgid "Saving the thematic area failed with the following message"
+msgid "Saving the program pillar failed with the following message"
 msgstr ""
 
 #: confirm_to_delete_organisation_unit_group
 msgctxt "confirm_to_delete_organisation_unit_group"
-msgid "Are you sure you want to delete this thematic area group?"
+msgid "Are you sure you want to delete this program pillar group?"
 msgstr ""
 
 #: confirm_to_delete_organisation_unit_group_set
 msgctxt "confirm_to_delete_organisation_unit_group_set"
-msgid "Are you sure you want to delete this thematic area group set?"
+msgid "Are you sure you want to delete this program pillar group set?"
 msgstr ""
 
 #: organisation_unit_group_set_management
-msgid "Thematic area group set management"
+msgid "Program pillar group set management"
 msgstr ""
 
 #: organisation_unit_group_set
 msgctxt "organisation_unit_group_set"
-msgid "Thematic area group set"
+msgid "Program pillar group set"
 msgstr ""
 
 #: saving_the_organisation_unit_group_set_failed
 msgid ""
-"Saving the thematic area group set failed with the following message"
+"Saving the program pillar group set failed with the following message"
 msgstr ""
 
 #: exclusive
@@ -1581,7 +1581,7 @@ msgid "Create new rganisation unit group set"
 msgstr ""
 
 #: edit_organisation_unit_group_set
-msgid "Edit thematic area group set"
+msgid "Edit program pillar group set"
 msgstr ""
 
 #: the_group_set_can_not_be_creat_bec_it_is_exc_and
@@ -1597,7 +1597,7 @@ msgid "Move all"
 msgstr ""
 
 #: organisation_unit_level_management
-msgid "Thematic area level management"
+msgid "Program pillar level management"
 msgstr ""
 
 #: level
@@ -1629,42 +1629,42 @@ msgid "Longitude (optional)"
 msgstr ""
 
 #: assign_to_compulsory_group_set
-msgid "Assign to compulsory thematic area group set"
+msgid "Assign to compulsory program pillar group set"
 msgstr ""
 
 #: intro_organisation_unit
 msgid ""
-"Create, modify, view and delete thematic areas, which can be "
+"Create, modify, view and delete program pillars, which can be "
 "departments, offices, hospitals and clinics."
 msgstr ""
 
 #: intro_organisation_unit_group
 msgid ""
-"Create, modify, view and delete thematic area groups. Groups are used "
+"Create, modify, view and delete program pillar groups. Groups are used "
 "for improved analysis."
 msgstr ""
 
 #: intro_organisation_unit_group_set
 msgid ""
-"Create, modify, view and delete thematic area group sets. Group sets are "
+"Create, modify, view and delete program pillar group sets. Group sets are "
 "used for improved analysis."
 msgstr ""
 
 #: intro_organisation_unit_level
 msgid ""
-"Create, modify, view and delete descriptive names for the thematic area "
+"Create, modify, view and delete descriptive names for the program pillar "
 "levels in the system."
 msgstr ""
 
 #: intro_organisation_unit_search
 msgid ""
-"Search thematic areas based on name and group sets. View extended "
+"Search program pillars based on name and group sets. View extended "
 "information for individual units."
 msgstr ""
 
 #: intro_hierarchy_operations_menu
 msgid ""
-"Move thematic areas in the thematic area tree. All children will be "
+"Move program pillars in the program pillar tree. All children will be "
 "moved along with the unit."
 msgstr ""
 
@@ -1681,7 +1681,7 @@ msgid "Organisation Unit Search"
 msgstr ""
 
 #: organisation_unit_search_management
-msgid "Thematic area search"
+msgid "Program pillar search"
 msgstr ""
 
 #: criteria
@@ -1689,7 +1689,7 @@ msgid "Criteria"
 msgstr ""
 
 #: organisation_units
-msgid "thematic areas"
+msgid "program pillars"
 msgstr ""
 
 #: found
@@ -1758,7 +1758,7 @@ msgid "Data sets"
 msgstr ""
 
 #: organisation_unit_groups
-msgid "Thematic area groups"
+msgid "Program pillar groups"
 msgstr ""
 
 #: phone_number
@@ -1790,7 +1790,7 @@ msgid "Show all sections"
 msgstr ""
 
 #: organisation_unit_levels_not_yet_saved
-msgid "Thematic area level is not yet saved, please save"
+msgid "Program pillar level is not yet saved, please save"
 msgstr ""
 
 #: no_value
@@ -1798,15 +1798,15 @@ msgid "<No value>"
 msgstr ""
 
 #: determining_your_root_orgunits
-msgid "Determining your root thematic areas"
+msgid "Determining your root program pillars"
 msgstr ""
 
 #: filter_organisation_units_by_name
-msgid "Filtering thematic areas by name"
+msgid "Filtering program pillars by name"
 msgstr ""
 
 #: organisation_units_selected
-msgid "Thematic areas selected"
+msgid "Program pillars selected"
 msgstr ""
 
 #: address
@@ -1845,7 +1845,7 @@ msgstr ""
 
 #: organisation_unit_section
 msgctxt "organisation_unit_section"
-msgid "Thematic area"
+msgid "Program pillar"
 msgstr ""
 
 #: category_section
@@ -1862,7 +1862,7 @@ msgid "Actions"
 msgstr ""
 
 #: move_$$ouCount$$_organisation_units
-msgid "Move $$ouCount$$ thematic areas"
+msgid "Move $$ouCount$$ program pillars"
 msgstr ""
 
 #: successfully_moved_$$ouName$$
@@ -1878,7 +1878,7 @@ msgid "Move"
 msgstr ""
 
 #: select_organisation_units_to_move_from_the_left_tree
-msgid "Select thematic area(s) to move from the left"
+msgid "Select program pillar(s) to move from the left"
 msgstr ""
 
 #: new_parent
@@ -1886,7 +1886,7 @@ msgid "New parent"
 msgstr ""
 
 #: select_new_parent_for_organisation_units_from_the_right_tree
-msgid "Select new parent for thematic area(s) from the right tree"
+msgid "Select new parent for program pillar(s) from the right tree"
 msgstr ""
 
 #: public_can_edit
@@ -1902,30 +1902,30 @@ msgid "No public access"
 msgstr ""
 
 #: you_can_not_move_higher_level_organisation_units_to_its_descendants
-msgid "You can not move an thematic area to one of its descendants."
+msgid "You can not move an program pillar to one of its descendants."
 msgstr ""
 
 #: confirm_delete_organisation_unit
 msgctxt "confirm_delete_organisation_unit"
-msgid "Are you sure you want to delete this thematic area?"
+msgid "Are you sure you want to delete this program pillar?"
 msgstr ""
 
 #: confirm_delete_organisation_unit_group
 msgctxt "confirm_delete_organisation_unit_group"
-msgid "Are you sure you want to delete this thematic area group?"
+msgid "Are you sure you want to delete this program pillar group?"
 msgstr ""
 
 #: confirm_delete_organisation_unit_group_set
 msgctxt "confirm_delete_organisation_unit_group_set"
-msgid "Are you sure you want to delete this thematic area group set?"
+msgid "Are you sure you want to delete this program pillar group set?"
 msgstr ""
 
 #: organisation_unit_levels_save_success
-msgid "Thematic area levels saved!"
+msgid "Program pillar levels saved!"
 msgstr ""
 
 #: organisation_unit_levels_save_failed
-msgid "Could not save thematic area levels."
+msgid "Could not save program pillar levels."
 msgstr ""
 
 #: no_roots_found
@@ -1993,17 +1993,17 @@ msgstr ""
 
 #: organisation_unit_attribute
 msgctxt "organisation_unit_attribute"
-msgid "Thematic area"
+msgid "Program pillar"
 msgstr ""
 
 #: organisation_unit_group_attribute
 msgctxt "organisation_unit_group_attribute"
-msgid "Thematic area group"
+msgid "Program pillar group"
 msgstr ""
 
 #: organisation_unit_group_set_attribute
 msgctxt "organisation_unit_group_set_attribute"
-msgid "Thematic area group set"
+msgid "Program pillar group set"
 msgstr ""
 
 #: user_attribute
@@ -2239,7 +2239,7 @@ msgid "Data set details"
 msgstr ""
 
 #: multiorg_dataset_details
-msgid "Multi-thematic area entry details"
+msgid "Multi-program pillar entry details"
 msgstr ""
 
 #: frequency
@@ -2248,7 +2248,7 @@ msgstr ""
 
 #: define_associations
 msgctxt "define_associations"
-msgid "Assign to thematic areas"
+msgid "Assign to program pillars"
 msgstr ""
 
 #: number_of_data_elements
@@ -2256,7 +2256,7 @@ msgid "Number of data elements"
 msgstr ""
 
 #: define_dataset_associations
-msgid "Assign data set to thematic areas"
+msgid "Assign data set to program pillars"
 msgstr ""
 
 #: assign
@@ -2372,7 +2372,7 @@ msgstr ""
 
 #: intro_dataset_assignment_editor
 msgid ""
-"Assign data sets to thematic areas in a grid based layout for faster "
+"Assign data sets to program pillars in a grid based layout for faster "
 "operations when working with a high number of items."
 msgstr ""
 
@@ -2451,7 +2451,7 @@ msgid "Please specify a name"
 msgstr ""
 
 #: select_org_unit
-msgid "Select thematic area"
+msgid "Select program pillar"
 msgstr ""
 
 #: assigned
@@ -2838,7 +2838,7 @@ msgid "User groups to alert"
 msgstr ""
 
 #: alert_by_org_units
-msgid "Alert only thematic area related users"
+msgid "Alert only program pillar related users"
 msgstr ""
 
 #: yes
@@ -2891,7 +2891,7 @@ msgid "Select number of standard deviations"
 msgstr ""
 
 #: select_parent_organisation_unit
-msgid "Select parent thematic area"
+msgid "Select parent program pillar"
 msgstr ""
 
 #: outlier_analysis
@@ -3025,11 +3025,11 @@ msgid "Use aggregated data"
 msgstr ""
 
 #: aggregate_data_info
-msgid "Immediate children of the selected thematic area will be included"
+msgid "Immediate children of the selected program pillar will be included"
 msgstr ""
 
 #: captured_data_info
-msgid "All children of the selected thematic area will be included"
+msgid "All children of the selected program pillar will be included"
 msgstr ""
 
 #: method
@@ -3188,7 +3188,7 @@ msgid "Never skip"
 msgstr ""
 
 #: no_organisation_unit_selected
-msgid "No thematic area selected"
+msgid "No program pillar selected"
 msgstr ""
 
 #: filter_elements
@@ -3252,11 +3252,11 @@ msgid "Clear zero values"
 msgstr ""
 
 #: group_set_structure
-msgid "Thematic area group set structure normalized"
+msgid "Program pillar group set structure normalized"
 msgstr ""
 
 #: organisation_unit_structure
-msgid "Thematic area structure"
+msgid "Program pillar structure"
 msgstr ""
 
 #: data_element_category_option_combo_name
@@ -3412,7 +3412,7 @@ msgid "Data elements without groups"
 msgstr ""
 
 #: data_sets_not_assigned_to_organisation_units
-msgid "Data sets not assigned to thematic areas"
+msgid "Data sets not assigned to program pillars"
 msgstr ""
 
 #: indicators_with_identical_formulas
@@ -3424,27 +3424,27 @@ msgid "Indicators without groups"
 msgstr ""
 
 #: organisation_units_with_cyclic_references
-msgid "Thematic areas with cyclic references"
+msgid "Program pillars with cyclic references"
 msgstr ""
 
 #: orphaned_organisation_units
-msgid "Orphaned thematic areas"
+msgid "Orphaned program pillars"
 msgstr ""
 
 #: organisation_units_without_groups
-msgid "Thematic areas without groups"
+msgid "Program pillars without groups"
 msgstr ""
 
 #: organisation_units_violating_compulsory_group_sets
-msgid "Thematic areas violating compulsory group sets"
+msgid "Program pillars violating compulsory group sets"
 msgstr ""
 
 #: organisation_units_violation_exclusive_group_sets
-msgid "Thematic areas violating exclusive group sets"
+msgid "Program pillars violating exclusive group sets"
 msgstr ""
 
 #: organisation_unit_groups_without_group_sets
-msgid "Thematic area groups without group sets"
+msgid "Program pillar groups without group sets"
 msgstr ""
 
 #: category_option_combos_not_in_data_element_category_combo
@@ -3473,11 +3473,11 @@ msgid "Indicator group set structure"
 msgstr ""
 
 #: organisation_unit_group_set_structure
-msgid "Thematic area group set structure"
+msgid "Program pillar group set structure"
 msgstr ""
 
 #: organisation_unit_category_option_combo
-msgid "Thematic area category option combo"
+msgid "Program pillar category option combo"
 msgstr ""
 
 #: values
@@ -3542,7 +3542,7 @@ msgstr ""
 
 #: intro_resource_table
 msgid ""
-"Generate resource database tables for the thematic area hierarchy and "
+"Generate resource database tables for the program pillar hierarchy and "
 "group set structure among others."
 msgstr ""
 
@@ -3554,7 +3554,7 @@ msgstr ""
 
 #: intro_organisation_unit_merge
 msgid ""
-"Merge two thematic areas and their data values. Data is merged depending "
+"Merge two program pillars and their data values. Data is merged depending "
 "on existence and date of last modification."
 msgstr ""
 
@@ -3578,7 +3578,7 @@ msgstr ""
 
 #: intro_organisation_unit_pruning
 msgid ""
-"Remove sub-trees from the thematic area tree. Useful when creating and "
+"Remove sub-trees from the program pillar tree. Useful when creating and "
 "deploying local databases."
 msgstr ""
 
@@ -3648,11 +3648,11 @@ msgid "Organisation Unit Merge"
 msgstr ""
 
 #: select_the_org_unit_to_eliminate
-msgid "Select the thematic area to eliminate"
+msgid "Select the program pillar to eliminate"
 msgstr ""
 
 #: select_the_org_unit_to_keep
-msgid "Select the thematic area to keep"
+msgid "Select the program pillar to keep"
 msgstr ""
 
 #: create_sql_views
@@ -3700,7 +3700,7 @@ msgid "Duplicate Data Elimination"
 msgstr ""
 
 #: select_different_org_units
-msgid "Please select two different thematic areas"
+msgid "Please select two different program pillars"
 msgstr ""
 
 #: select_different_data_elements
@@ -3796,17 +3796,17 @@ msgid "Please select a browser mode"
 msgstr ""
 
 #: drilldown_select_org_unit
-msgid "Please select an thematic area"
+msgid "Please select an program pillar"
 msgstr ""
 
 #: drilldown_orgunit
 msgctxt "drilldown_orgunit"
-msgid "Thematic area"
+msgid "Program pillar"
 msgstr ""
 
 #: drilldown_orgunit_group
 msgctxt "drilldown_orgunit_group"
-msgid "Thematic area group"
+msgid "Program pillar group"
 msgstr ""
 
 #: drilldown_data_element
@@ -3841,7 +3841,7 @@ msgid "View raw data at this level"
 msgstr ""
 
 #: click_on_this_orgunit
-msgid "Click on this thematic area"
+msgid "Click on this program pillar"
 msgstr ""
 
 #: earliest
@@ -3868,7 +3868,7 @@ msgstr ""
 
 #: not_choose_organisation
 msgctxt "not_choose_organisation"
-msgid "Please select an thematic area"
+msgid "Please select an program pillar"
 msgstr ""
 
 #: generate
@@ -4047,7 +4047,7 @@ msgstr ""
 
 #: pruning_interrupted
 msgid ""
-"You must choose the thematic area has parent to prune. Please try again!"
+"You must choose the program pillar has parent to prune. Please try again!"
 msgstr ""
 
 #: sqlquery_is_not_allowed
@@ -4287,7 +4287,7 @@ msgid "Daily"
 msgstr ""
 
 #: organisation_unit_group_set_aggregation_level
-msgid "Thematic area group set aggregation level"
+msgid "Program pillar group set aggregation level"
 msgstr ""
 
 #: aggregated_org_unit_data_values
@@ -4414,7 +4414,7 @@ msgid "Update category option combinations"
 msgstr ""
 
 #: update_organisation_unit_paths
-msgid "Update thematic area paths"
+msgid "Update program pillar paths"
 msgstr ""
 
 #: date_period_structure
@@ -4534,7 +4534,7 @@ msgstr ""
 
 #: please_select_an_organisation_unit
 msgctxt "please_select_an_organisation_unit"
-msgid "Please select an thematic area"
+msgid "Please select an program pillar"
 msgstr ""
 
 #: prev_year
@@ -4735,7 +4735,7 @@ msgid "Polygon coordinates are not editable"
 msgstr ""
 
 #: org_unit_assignment
-msgid "Thematic area assignment"
+msgid "Program pillar assignment"
 msgstr ""
 
 #: no_changes_to_be_saved
@@ -4867,7 +4867,7 @@ msgid "View program stages"
 msgstr ""
 
 #: assign_program_to_orgunits
-msgid "Assign program to thematic areas"
+msgid "Assign program to program pillars"
 msgstr ""
 
 #: programs
@@ -5508,7 +5508,7 @@ msgid "Sort by scheduled days"
 msgstr ""
 
 #: assign_program_to_orgunits_for_registering
-msgid "Assign program to thematic areas for registering"
+msgid "Assign program to program pillars for registering"
 msgstr ""
 
 #: visited_program_stage
@@ -5607,7 +5607,7 @@ msgid "Program stage name"
 msgstr ""
 
 #: orgunit_name
-msgid "Thematic area name"
+msgid "Program pillar name"
 msgstr ""
 
 #: days_since_due_date
@@ -6016,7 +6016,7 @@ msgstr ""
 
 #: orgunit_group
 msgctxt "orgunit_group"
-msgid "Thematic area group"
+msgid "Program pillar group"
 msgstr ""
 
 #: enrollement_date
@@ -6051,11 +6051,11 @@ msgid "Selected program stages"
 msgstr ""
 
 #: orgunit_registered
-msgid "Thematic area phone number"
+msgid "Program pillar phone number"
 msgstr ""
 
 #: all_users_in_orgunit_registered
-msgid "All users in thematic area registered"
+msgid "All users in program pillar registered"
 msgstr ""
 
 #: date_in_future
@@ -6088,7 +6088,7 @@ msgid "From the day set"
 msgstr ""
 
 #: orgunit_count
-msgid "Thematic area count"
+msgid "Program pillar count"
 msgstr ""
 
 #: default_registration_form
@@ -6165,7 +6165,7 @@ msgid "Tracked entity instance (SMS only)"
 msgstr ""
 
 #: orgunit_phone_number_sms_only
-msgid "Thematic area phone number (SMS only)"
+msgid "Program pillar phone number (SMS only)"
 msgstr ""
 
 #: health_worker_assigned_to_tracked_entity
@@ -6173,7 +6173,7 @@ msgid "Health worker assigned to tracked entity instance"
 msgstr ""
 
 #: all_users_at_orgunit
-msgid "All users at thematic area"
+msgid "All users at program pillar"
 msgstr ""
 
 #: send_base_on
@@ -6400,11 +6400,11 @@ msgstr ""
 
 #: orgunit
 msgctxt "orgunit"
-msgid "Thematic area"
+msgid "Program pillar"
 msgstr ""
 
 #: program_within_orgunit
-msgid "Program within thematic area"
+msgid "Program within program pillar"
 msgstr ""
 
 #: auto_save_registration_forms
@@ -6678,15 +6678,15 @@ msgid "Not searchable"
 msgstr ""
 
 #: across_data_capture_orgunits
-msgid "Across data capture thematic areas"
+msgid "Across data capture program pillars"
 msgstr ""
 
 #: across_search_orgunits
-msgid "Across search thematic areas"
+msgid "Across search program pillars"
 msgstr ""
 
 #: across_all_orgunits
-msgid "Across all thematic areas"
+msgid "Across all program pillars"
 msgstr ""
 
 #: first_stage_during_registraton
@@ -6757,7 +6757,7 @@ msgid "Sample skip test"
 msgstr ""
 
 #: organisation_unit_levels
-msgid "Thematic area levels"
+msgid "Program pillar levels"
 msgstr ""
 
 #: output
@@ -6785,7 +6785,7 @@ msgid "Confirm delete legend"
 msgstr ""
 
 #: no_org_units_add_one_to_get_started
-msgid "No thematic areas - add one to get started"
+msgid "No program pillars - add one to get started"
 msgstr ""
 
 #: push_analysis
